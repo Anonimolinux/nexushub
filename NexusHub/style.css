@@ -1,0 +1,48 @@
+body {
+    margin: 10;
+
+    background: #17233d;
+
+    color: white;
+
+    font-family: Arial, sans-serif;
+
+    text-align: center;
+
+    padding-top: 100px;
+}
+
+h1 {
+
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    
+    gap: 10px;
+    
+    font-size: 135px;
+    font-family: Orbitron;
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: #94a3b8;
+
+    margin-bottom: 30px;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    display: block;
+    color: antiquewhite;
+     font-size: large;
+
+}
+
+.logo {
+    width: 300px;
+}
