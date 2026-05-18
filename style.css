@@ -32,6 +32,22 @@ h2 {
     margin-bottom: 30px;
 }
 
+
+h3 {
+    color: aliceblue;
+    font-family: Orbitron;
+    font-size: 40;
+}
+
+h4 {
+    color: aliceblue;
+    font-family: Orbitron;
+    font-size: 15;
+}
+
+
+
+
 p {
     font-size: 18px;
 }
@@ -45,4 +61,21 @@ a {
 
 .logo {
     width: 300px;
+}
+
+.frame {
+
+    width: 500px;
+
+    padding: 20px;
+
+    margin: auto;
+
+    background: rgb(44, 44, 44);
+
+    border: 2px solid rgb(44, 44, 44);
+
+    border-radius: 20px;
+
+    backdrop-filter: blur(5px);
 }
